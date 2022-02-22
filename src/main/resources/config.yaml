@@ -1,0 +1,21 @@
+mysqldb:
+ host: 'localhost'
+ port: "8081"
+ 
+
+postgres:
+  host: "localhost"
+  port: "8085"
+  
+salesforce:
+  host: "localhost"
+  port: "8086"
+  
+http:
+  host: "localhost"
+  port: "8084"
+  
+api:
+  id: "17652400"
+  anypoint.platform.client_id: "c6b4fa96b2184b3791604b1a6fe211ac"
+  anypoint.platform.client_secret: "0727E322469341Ffa591e5e5dca1d2bA"
